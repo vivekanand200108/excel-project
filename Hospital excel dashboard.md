@@ -1,4 +1,5 @@
-#🏥 Hospital Emergency Room Dashboard – Excel Project
+# 🏥 Hospital Emergency Room Dashboard – Excel Project
+
 This is an interactive Excel dashboard I built to analyze and visualize Hospital Emergency Room data. The project focuses on extracting key healthcare insights using Excel tools and features like Pivot Tables, Slicers, and Charts.
 ## Dataset Used
 - <a href ="https://github.com/vivekanand200108/excel-project/blob/main/Hospital%20Dashboard.xlsx">Dataset View</a>
