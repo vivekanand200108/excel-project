@@ -19,7 +19,7 @@ Shows the number of male and female patients.
 Department Referrals
 Identifies which departments (e.g., Orthopedics, Neurology) patients were referred to the most.
 
-- DashBoard <a herf="https://github.com/vivekanand200108/excel-project/blob/main/Hospital%20emergency%20Dashboard.png">Dashboard View</a>
+- DashBoard <a href="https://github.com/vivekanand200108/excel-project/blob/main/Hospital%20emergency%20Dashboard.png">Dashboard View</a>
 
 🛠 Tools & Skills Used
 Microsoft Excel
