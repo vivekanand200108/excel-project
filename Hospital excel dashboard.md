@@ -36,4 +36,5 @@ Dashboard Design Principles
 
 📌 Objective
 The goal of this project is to develop healthcare domain insights from ER patient data and present them in an interactive and easy-to-read dashboard, helping stakeholders make informed decisions quickly.
+# View.
 ![Hospital emergency Dashboard](https://github.com/user-attachments/assets/15bd5ae2-206e-44f2-aca7-c224b5aa304f)
